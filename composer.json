@@ -1,6 +1,8 @@
 {
     "name": "diih2/digital-cep",
     "description": "Busca cep online",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "diegodc26",
